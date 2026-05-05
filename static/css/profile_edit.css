@@ -95,6 +95,10 @@
     align-items: center;
 
 }
+.avatar-upload .form-field .helptext,
+.avatar-upload .form-field .current {
+    display: none;
+}
 
 .avatar-preview {
     position: relative;
